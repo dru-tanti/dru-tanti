@@ -1,4 +1,5 @@
-### Hi there 👋
+![Personal Banner](banner.png)
+### Back-end PHP developer by profession, but my main passion is game development. My main area is gameplay programming and bringling crazy game ideas to life. Currently learning C++ and the Unreal Game Engine.
 
 <!--
 **dru-tanti/dru-tanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
