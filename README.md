@@ -1,4 +1,4 @@
-![Personal Banner](https://github.com/dru-tanti/dru-tanti/tree/master/images/banner.png)
+![Personal Banner](/images/banner.png)
 ### Recently graduated in Interactive media and Back-end PHP developer by profession. Create games in my spare time with my main focus being gameplay programming. Currently learning C++ and the Unreal Game Engine.
 
 <!--
