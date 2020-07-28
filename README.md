@@ -1,4 +1,4 @@
-![Personal Banner](banner.png)
+![Personal Banner](images/banner.png)
 ### Back-end PHP developer by profession, but my main passion is game development. My main area is gameplay programming and bringling crazy game ideas to life. Currently learning C++ and the Unreal Game Engine.
 
 <!--
