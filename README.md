@@ -1,5 +1,8 @@
 ![Personal Banner](https://raw.githubusercontent.com/dru-tanti/dru-tanti/master/images/banner.png)
-### Recently graduated in Interactive media and Back-end PHP developer by profession. Create games in my spare time with my main focus being gameplay programming. Currently learning C++ and the Unreal Game Engine.
+
+- 🇲🇹 Based in Malta
+- 💻 Currently working as a Senior PHP developer.
+- 🎮 Make games in my spare time with a focus on Gameplay Programming.
 
 <!--
 **dru-tanti/dru-tanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
