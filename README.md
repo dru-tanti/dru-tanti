@@ -1,8 +1,8 @@
 ![Personal Banner](https://raw.githubusercontent.com/dru-tanti/dru-tanti/master/images/banner.png)
 
 - 🇲🇹 Based in Malta
-- 💻 Currently working as a Senior PHP developer.
-- 🎮 Make games in my spare time with a focus on Gameplay Programming.
+- 💻 Work in Game Development as a Junior Tool Developer with NARC
+- 🎮 Make games in my spare time
 
 <!--
 **dru-tanti/dru-tanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
