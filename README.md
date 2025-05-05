@@ -1,7 +1,7 @@
 ![Personal Banner](https://raw.githubusercontent.com/dru-tanti/dru-tanti/master/images/banner.png)
 
 - 🇲🇹 Based in Malta
-- 💻 Work in Game Development as a Junior Tool Developer with NARC
+- 💻 Work in Game Development as a Tool Developer with NARC
 - 🎮 Make games in my spare time
 
 <!--
