@@ -1,5 +1,3 @@
-![Personal Banner](https://raw.githubusercontent.com/dru-tanti/dru-tanti/master/images/banner.png)
-
 - 🇲🇹 Based in Malta
 - 💻 Work in Game Development as a Software Engineer with [NARC](https://www.narc.com/index.html)
 - 🎮 Make games in my spare time
